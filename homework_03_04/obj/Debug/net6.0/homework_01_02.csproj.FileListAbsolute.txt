@@ -1,0 +1,15 @@
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\bin\Debug\net6.0\homework_01_02.exe
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\bin\Debug\net6.0\homework_01_02.deps.json
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\bin\Debug\net6.0\homework_01_02.runtimeconfig.json
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\bin\Debug\net6.0\homework_01_02.dll
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\bin\Debug\net6.0\homework_01_02.pdb
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.csproj.AssemblyReference.cache
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.AssemblyInfoInputs.cache
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.AssemblyInfo.cs
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.csproj.CoreCompileInputs.cache
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.dll
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\refint\homework_01_02.dll
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.pdb
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\homework_01_02.genruntimeconfig.cache
+C:\Users\kaliaskarovam\source\repos\kaliaskarova\C#\homework_01_02\homework_01_02\obj\Debug\net6.0\ref\homework_01_02.dll

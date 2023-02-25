@@ -1,0 +1,15 @@
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\bin\Debug\net6.0\homework_03_04.exe
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\bin\Debug\net6.0\homework_03_04.deps.json
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\bin\Debug\net6.0\homework_03_04.runtimeconfig.json
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\bin\Debug\net6.0\homework_03_04.dll
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\bin\Debug\net6.0\homework_03_04.pdb
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.csproj.AssemblyReference.cache
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.AssemblyInfoInputs.cache
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.AssemblyInfo.cs
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.csproj.CoreCompileInputs.cache
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.dll
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\refint\homework_03_04.dll
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.pdb
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\homework_03_04.genruntimeconfig.cache
+D:\Malika\STEP Academy\C#\дз\homework_03_04\homework_03_04\homework_03_04\obj\Debug\net6.0\ref\homework_03_04.dll
